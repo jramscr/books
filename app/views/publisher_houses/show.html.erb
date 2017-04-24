@@ -1,0 +1,9 @@
+<p id="notice"><%= notice %></p>
+
+<%= render 'layouts/options', actions: { delete: publisher_house_path(@publisher_house), edit: edit_publisher_house_path(@publisher_house) }  %>
+
+<div>
+  <div class='col-sm-12'>
+    <h2><%= @publisher_house.name  %></h2>
+  </div>
+</div>

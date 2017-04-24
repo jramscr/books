@@ -1,0 +1,15 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+
+development:
+  <<: *default
+  database: books_development
+
+test:
+  <<: *default
+  database: books_test
+
+production:
+  <<: *default
+  database: books_production

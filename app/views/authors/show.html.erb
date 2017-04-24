@@ -1,0 +1,11 @@
+<p id="notice"><%= notice %></p>
+
+<%= render 'layouts/options', actions: { delete: author_path(@author), edit: edit_author_path(@author) }  %>
+
+<div>
+  <div class='col-sm-12'>
+    <h2> <%= @author.fullname %> </h2>
+    <p> Birthdate: <%= l(@author.birthdate, format: :ordinary) %></p>
+  </div>
+</div>
+

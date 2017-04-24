@@ -1,0 +1,3 @@
+$('.books-wrapper').html('');
+$('.books-wrapper').html("<%= j(render "books/#{@layout}").html_safe %>");
+

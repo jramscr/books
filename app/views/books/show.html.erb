@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<%= render 'layouts/options', actions: { delete: book_path(@book), edit: edit_book_path(@book) }  %>
+
+<div>
+  <div class='col-sm-4'>
+    <img src=<%= @book.cover.present? ? @book.cover : Book::WITHOUT_COVER %> alt="" class="image-wrapper"/>
+  </div>
+  <div class='col-sm-8'>
+    <h2> <%= @book.title %> <small> (<%= l(@book.published_at, format: :ordinary) %>)</small> </h2>
+    <p> by <%= authors_links(@book).join(', ').html_safe %> </p>
+    <p> No. pages: <%= @book.pages %></p>
+    <p> Published by: <%= @book.publisher_house.name %></p>
+  </div>
+</div>

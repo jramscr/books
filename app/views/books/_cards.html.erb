@@ -1,0 +1,17 @@
+<% @books.each do |book| %>
+  <div class="card col-sm-4 js--searchableComponent">
+    <%= link_to book do %>
+      <h2 class="card-title js--searchCriteria"><%= book.title %></h2>
+    <% end %>
+    <p class="card-subtitle">
+      Publisher House: <%= link_to book.publisher_house.name, publisher_house_path(book.publisher_house), class: 'js--searchCriteria' %>
+    </p>
+
+    <%= link_to book do %>
+      <img class="card-img-top card-image-wrapper" src=<%= book.cover.present? ? book.cover : Book::WITHOUT_COVER %> alt="Book Cover">
+    <% end %>
+
+    <div class="card-block">
+    </div>
+  </div>
+<% end %>

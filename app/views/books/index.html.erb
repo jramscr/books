@@ -1,0 +1,11 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Books</h1>
+
+<%= render 'books/change_layout_options' %>
+<%= link_to 'New Book', new_book_path, class: 'btn btn-primary pull-right' %>
+
+<div class="books-wrapper">
+  <%= render 'books/list' %>
+</div>
+

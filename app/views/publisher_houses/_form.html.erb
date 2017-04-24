@@ -1,0 +1,14 @@
+<%= form_for(publisher_house) do |f| %>
+  <% if publisher_house.errors.any? %>
+    <%= render 'layouts/errors', object: publisher_house %>
+  <% end %>
+
+  <div class="form-group">
+    <strong>Name</strong>
+    <%= f.text_field :name, class: 'form-control'  %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit 'Save', class: 'btn btn-success pull-right' %>
+  </div>
+<% end %>

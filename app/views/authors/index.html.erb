@@ -1,0 +1,23 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Authors</h1>
+<%= link_to 'New Author', new_author_path, class: 'btn btn-primary pull-right' %>
+
+<table class='table table-striped'>
+  <thead>
+    <tr>
+      <th>Full name</th>
+      <th>Options</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @authors.each do |author| %>
+      <tr>
+        <td><%= link_to "#{author.last_name}, #{author.first_name}", author %></td>
+        <td><%= link_to 'Destroy', author, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+

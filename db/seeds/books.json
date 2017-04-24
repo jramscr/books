@@ -1,0 +1,211 @@
+[
+{
+  "title": "The Search for Baby Ruby",
+  "book_authors": [
+    "Susan Shreve"
+  ],
+  "publisher": "Scholastic Inc.",
+  "published_at": "2015-05-26",
+  "pages": 224,
+  "cover": "http://books.google.com/books/content?id=6n8PBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "The Ruby Programming Language",
+  "book_authors": [
+    "David Flanagan",
+    "Yukihiro Matsumoto"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2008-01-25",
+  "pages": 448,
+  "cover": "http://books.google.com/books/content?id=jcUbTcr5XWwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Computer Science Programming Basics in Ruby",
+  "book_authors": [
+    "Ophir Frieder",
+    "Gideon Frieder",
+    "David Grossman"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2013-04-18",
+  "pages": 188,
+  "cover": "http://books.google.com/books/content?id=ff8MXr7fZq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Algorithms in a Nutshell",
+  "book_authors": [
+    "George T. Heineman",
+    "Gary Pollice",
+    "Stanley Selkow"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2008-10-14",
+  "pages": 364,
+  "cover": "http://books.google.com/books/content?id=qhaOxkQANEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Practical Ruby Gems",
+  "book_authors": [
+    "David Berube"
+  ],
+  "publisher": "Apress",
+  "published_at": "2007-09-09",
+  "pages": 271,
+  "cover": "http://books.google.com/books/content?id=QC0rgGTmeNAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Professional Ruby on Rails",
+  "book_authors": [
+    "Noel Rappin"
+  ],
+  "publisher": "John Wiley & Sons",
+  "published_at": "2008-03-04",
+  "pages": 457,
+  "cover": "http://books.google.com/books/content?id=aB4B13xGEv4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Ruby by Example",
+  "book_authors": [
+    "Kevin C. Baird"
+  ],
+  "publisher": "No Starch Press",
+  "published_at": "2007",
+  "pages": 312,
+  "cover": "http://books.google.com/books/content?id=kq2dBNdAl3IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Ruby Cookbook",
+  "book_authors": [
+    "Lucas Carlson",
+    "Leonard Richardson"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2006-07-19",
+  "pages": 910,
+  "cover": "http://books.google.com/books/content?id=bJkznhZBG6gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Beginning Ruby on Rails E-Commerce",
+  "book_authors": [
+    "Jarkko Laine",
+    "Christian Hellsten"
+  ],
+  "publisher": "Apress",
+  "published_at": "2007-04-30",
+  "pages": 448,
+  "cover": "http://books.google.com/books/content?id=o0JuxK5_1esC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Ruby Programming for Medicine and Biology",
+  "book_authors": [
+    "Jules J. Berman"
+  ],
+  "publisher": "Jones & Bartlett Learning",
+  "published_at": "2008",
+  "pages": 378,
+  "cover": "http://books.google.com/books/content?id=OBhAuww-OokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Dundurn Railroad 5-Book Bundle",
+  "book_authors": [
+    "Ron Brown"
+  ],
+  "publisher": "Dundurn",
+  "published_at": "2015-08-08",
+  "pages": 1040,
+  "cover": "http://books.google.com/books/content?id=v5pZCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Dundurn Railroad Bundle",
+  "book_authors": [
+    "Ron Brown"
+  ],
+  "publisher": "Dundurn",
+  "published_at": "2014-01-17",
+  "pages": 840,
+  "cover": "http://books.google.com/books/content?id=BpqLAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Head First Rails",
+  "book_authors": [
+    "David Griffiths"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2009",
+  "pages": 429,
+  "cover": "http://books.google.com/books/content?id=jMCO096qlRsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Professional Ruby on Rails",
+  "book_authors": [
+    "Noel Rappin"
+  ],
+  "publisher": "John Wiley & Sons",
+  "published_at": "2008-03-04",
+  "pages": 457,
+  "cover": "http://books.google.com/books/content?id=aB4B13xGEv4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Rails Solutions",
+  "book_authors": [
+    "Justin Williams"
+  ],
+  "publisher": "Apress",
+  "published_at": "2007-04-01",
+  "pages": 272,
+  "cover": "http://books.google.com/books/content?id=0MEn8moAsYQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Beginning Ruby on Rails E-Commerce",
+  "book_authors": [
+    "Jarkko Laine",
+    "Christian Hellsten"
+  ],
+  "publisher": "Apress",
+  "published_at": "2007-04-30",
+  "pages": 448,
+  "cover": "http://books.google.com/books/content?id=o0JuxK5_1esC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Web Services on Rails",
+  "book_authors": [
+    "Kevin Marshall"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2006-05-23",
+  "pages": 32,
+  "cover": "http://books.google.com/books/content?id=VEMmkC-gJSoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Beginning Rails 3",
+  "book_authors": [
+    "Rida Al Barazi",
+    "Cloves Carneiro Jr"
+  ],
+  "publisher": "Apress",
+  "published_at": "2010-12-31",
+  "pages": 400,
+  "cover": "http://books.google.com/books/content?id=a3g68K181OEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Rails 4 Application Development HOTSHOT",
+  "book_authors": [
+    "Saurabh Bhatia"
+  ],
+  "publisher": "Packt Publishing Ltd",
+  "published_at": "2014-04-10",
+  "pages": 378,
+  "cover": "http://books.google.com/books/content?id=_etUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+},
+{
+  "title": "Ajax on Rails",
+  "book_authors": [
+    "Scott Raymond"
+  ],
+  "publisher": "\"O'Reilly Media, Inc.\"",
+  "published_at": "2007-01-03",
+  "pages": 352,
+  "cover": "http://books.google.com/books/content?id=GfF27NZCWXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+}
+]

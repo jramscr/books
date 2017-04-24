@@ -1,0 +1,23 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Publisher Houses</h1>
+<%= link_to 'New Publisher House', new_publisher_house_path, class: 'btn btn-primary pull-right' %>
+
+<table class='table table-striped'>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Options</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @publisher_houses.each do |publisher_house| %>
+      <tr>
+        <td><%= link_to publisher_house.name, publisher_house %></td>
+        <td><%= link_to 'Destroy', publisher_house, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
